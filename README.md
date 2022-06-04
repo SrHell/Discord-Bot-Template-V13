@@ -1,7 +1,7 @@
 # Setup
 * <a href="https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi">Instale NodeJS</a>
 * Altere os valores do aquivo `config.js`
-* Crie um arquivo `.env` para a token do seu bot.
+* Renomeie `.env.example` para `.env`.
 * Após a instalação do node JS, e as configurações acima realizadas, agora é só instalar as dependências. `npm i`
 
 
