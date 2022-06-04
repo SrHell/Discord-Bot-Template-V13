@@ -1,8 +1,8 @@
 # Setup
-<a href="https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi">Instale NodeJS</a>
-Altere os valores do aquivo `config.js`
-Crie um arquivo `.env` para a token do seu bot.
-Após a instalação do node JS, e as configurações acima realizadas, agora é só instalar as dependências. `npm i`
+* <a href="https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi">Instale NodeJS</a>
+* Altere os valores do aquivo `config.js`
+* Crie um arquivo `.env` para a token do seu bot.
+* Após a instalação do node JS, e as configurações acima realizadas, agora é só instalar as dependências. `npm i`
 
 
 ## Exemplo do comando by Don
@@ -13,7 +13,7 @@ module.exports = {
     name: "say",
     aliases: [""],
     category: "Geral",
-    description: "Falar com o bot!",
+    description: "Falar como bot!",
     ownerOnly: false,
     disabled: false,
     cooldown: 20,
@@ -36,7 +36,8 @@ module.exports = {
 }
 
 ```
+<img src="https://i.imgur.com/PIIxt9V.png" alt="Exemplo">
 
 ## Créditos
-<a href="https://github.com/locus-solutions">locus-solutions</a>
-<a href="https://github.com/Expectatives">Expectatives</a>
+* <a href="https://github.com/locus-solutions">locus-solutions</a>
+* <a href="https://github.com/Expectatives">Expectatives</a>
