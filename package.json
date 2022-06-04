@@ -1,0 +1,20 @@
+{
+  "name": "Discord-Bot-Template-V13",
+  "version": "1.0.0",
+  "description": "Discord-Bot-Template-V13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Créditos estão no README.md",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "ms": "^2.1.3"
+  }
+}
